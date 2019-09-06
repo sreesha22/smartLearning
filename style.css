@@ -1,0 +1,208 @@
+.s
+{
+background-color: #c1e0df;
+}
+.btn{
+	
+	float:right;
+}
+i
+{
+	padding-left: 10px;
+}
+.c{
+	margin-top:10px;
+	border-radius:50%;
+	height: 30px;
+	width:30px;
+}
+​.wrapper { 
+width: 100%;
+ 
+}
+.menu {
+      
+      float: left;
+      display: block;
+	  
+}
+
+.icon { max-width: 1em }
+.menu li{
+	padding: 45px;
+}
+.menu ul {
+      list-style-type: none;
+      margin: 0;
+    
+}
+
+.menu li { margin: 0 }
+
+.menu a, .menu a:visited {
+	
+      color: white;
+      text-decoration: none;
+	
+}
+
+.text {
+      display: inline;
+      margin: 0;
+}
+
+.content { 
+float:left;
+display: block; 
+}
+
+button { margin: 1em; }
+
+@media only screen and (max-width: 500px) {
+  .text {
+      display: none;
+  }
+}
+.t{
+	float:right;
+}
+h4
+{
+	float:left;
+}
+
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+.dot {
+  height: 6px;
+  width: 6px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  float:right;
+ 
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  height:685px;
+ 
+  
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.r {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #4d608f;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  margin-left:1px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+.y
+{
+font-size:10px;
+margin-right:100px;
+}
+img
+{
+	border-radius:50%;width:100px;height:100px;margin-top:30px;
+	margin-left:60px;
+	margin-right:70px;
+}
+.n{
+	color: #4d608f;
+	font-size: 20px;
+}
+.h{
+	color:#26f06d;
+	font-size:20px;
+	
+}
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+ .topnav {
+  overflow: hidden;
+  background-color: white;
+}
+
+.topnav a {
+  float: left;
+  color: #c1e0df;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+
+.topnav-right {
+  float: right;
+}
+.w{
+color:#658ead;
+}
